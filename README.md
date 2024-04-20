@@ -6,6 +6,9 @@ For Example:
 
 ![preview](./images/image.png)
 
+![image](https://github.com/Ajay-Dhangar/face-detector-app/assets/99037494/57d0b466-f0bf-41b2-9f2a-cbf89fa027dd)
+
+
 ***If you like this repository, feel free to star it.***
 
 ## Features
@@ -52,7 +55,11 @@ pip install opencv-python
 python main.py
 ```
 
+![image](https://github.com/Ajay-Dhangar/face-detector-app/assets/99037494/57d0b466-f0bf-41b2-9f2a-cbf89fa027dd)
+
 Congratulations! You have successfully run the face detector app.
+
+and you can use your own image by replacing the image in the `images` folder.
 
 ## Contributing
 
